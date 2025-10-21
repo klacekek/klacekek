@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @klacekek
-- 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects.
-- 📫 How to reach me ...
+# Sword and Sandals 2 - Terminal Clone
 
-<!---
-klacekek/klacekek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository contains a lightweight, terminal-based gladiator management game inspired by **Sword and Sandals 2**. Create a gladiator, battle randomly generated opponents, purchase weapons and armour, and see how many victories you can achieve before retiring.
+
+## Requirements
+
+- Python 3.10+
+
+## Running the Game
+
+```bash
+python sword_and_sandals.py
+```
+
+You'll be guided through gladiator creation and can then alternate between arena battles, shopping for better gear, and reviewing your stats.
+
+## Features
+
+- Randomised opponents with scaling difficulty.
+- Simple combat system with critical strikes and equipment bonuses.
+- Marketplace for upgrading weapons and armour.
+- Experience and levelling for your gladiator.
+
+Enjoy your time in the arena!
