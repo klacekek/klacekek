@@ -1,0 +1,5 @@
+<resources>
+    <color name="seed">#FF6F00</color>
+    <color name="profit_green">#2E7D32</color>
+    <color name="loss_red">#C62828</color>
+</resources>

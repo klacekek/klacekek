@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Heater Tracker</string>
+    <string name="add_entry">Add Tournament</string>
+    <string name="total_profit">Total Profit</string>
+    <string name="total_buy_ins">Total Buy-ins</string>
+    <string name="itm_percentage">ITM %</string>
+    <string name="empty_state">No tournaments recorded yet. Tap the + button to add one!</string>
+</resources>
